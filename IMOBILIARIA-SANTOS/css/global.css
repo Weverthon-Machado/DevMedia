@@ -1,0 +1,11 @@
+.secao-topo{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+body {
+    margin: 0;
+    font-family: Tahoma;
+    text-align: center;
+}
